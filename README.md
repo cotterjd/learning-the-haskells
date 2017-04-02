@@ -1,5 +1,5 @@
 # learning-the-haskells
-haskell practice. Inspired by content in Learn You a Haskell for Great Good!
+haskell practice. Inspired by content in <a href="http://learnyouahaskell.com/">Learn You a Haskell for Great Good!</a> 
 
 ```
 $ sudo apt-get install ghc
